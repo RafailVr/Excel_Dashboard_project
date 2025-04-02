@@ -1,3 +1,3 @@
 # Excel_Dashboard_project
-This is and interactive Dashboard Excel Project
-Hope you enjoy it!
+This is and interactive Dashboard Excel Project.
+I hope you will enjoy it!
